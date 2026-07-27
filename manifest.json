@@ -4,10 +4,10 @@
   "name": "Moondream 2",
   "version": "1.0.0",
   "kind": "asset",
-  "license": "Apache-2.0",
+  "license": "MIT",
   "compat": ">=0.1",
   "description": "A small vision-language model that describes and answers questions about images. Uses: frame captioning; visual question answering; smart / natural-language footage search.",
-  "author": "azphalt",
+  "author": "HereLiesAz",
   "homepage": "https://github.com/HereLiesAz/azphalt-moondream",
   "assets": [
     {
@@ -23,6 +23,5 @@
         "language"
       ]
     }
-  ],
-  "files": {}
+  ]
 }
