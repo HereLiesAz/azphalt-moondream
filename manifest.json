@@ -4,7 +4,7 @@
   "name": "Moondream 2",
   "version": "1.0.0",
   "kind": "asset",
-  "license": "MIT",
+  "license": "LicenseRef-Upstream-Unstated",
   "compat": ">=0.1",
   "description": "A small vision-language model that describes and answers questions about images. Uses: frame captioning; visual question answering; smart / natural-language footage search.",
   "author": "HereLiesAz",
